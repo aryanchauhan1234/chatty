@@ -1,8 +1,10 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<img width="1280" alt="Screenshot 2025-06-05 at 10 19 25 AM" src="https://github.com/user-attachments/assets/7bd558e9-32ad-4292-8cf7-2546432372b5" />
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+# ✨  with 25+ themes with DAISY UI ✨
+
+<img width="1280" alt="Screenshot 2025-06-05 at 10 19 55 AM" src="https://github.com/user-attachments/assets/98c07eb8-f383-4241-8820-81d33604bb40" />
 
 Highlights:
 
